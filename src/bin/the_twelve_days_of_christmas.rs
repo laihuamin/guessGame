@@ -1,3 +1,4 @@
+// 练习题三：打印圣诞颂歌 “The Twelve Days of Christmas” 的歌词，利用歌曲中的重复部分（编写循环）。
 // 歌词部分
 // On the first day of Christmas,
 // my true love gave to me
