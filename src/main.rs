@@ -7,6 +7,8 @@ fn main() {
     println!("Guess");
     let secret_number = rand::thread_rng().gen_range(1..101);
 
+    let tmp_secret_number = secret_number;
+
     println!("The secret number is {}", secret_number);
 
     loop {
